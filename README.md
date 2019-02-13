@@ -1,0 +1,3 @@
+# SimpleCatalogApp
+
+![](coder-swag.gif)
